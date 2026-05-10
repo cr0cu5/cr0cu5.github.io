@@ -8,10 +8,7 @@ The PirateSec theme was designed for the <a href="https://piratesec.org/">Pensac
 # The Font: IBM MDA
 
 ```
-1234567890
-!@#$%^&*()[]{}\|;:'"<>,./?
-abcdefghijklmnopqrstuvwxyz
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+cr0cus pwned  it
 ```
 
 <a href="https://int10h.org/oldschool-pc-fonts/fontlist/#ibmmda">The First-Generation Video Monochrome Display Adapter</a>  was IBM's standard video display card introduced in 1981. The 14-scanline MDA font contained characters stored as 8 pixels wide with an additional 9th column which was either blank or a duplicate of the 8th, depending on the character.
