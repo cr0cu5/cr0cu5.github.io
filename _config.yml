@@ -3,7 +3,7 @@ url: 'https://cr0cu5.github.io'
 baseurl: ''
 permalink: /:title/
 
-title: 'PirateSec'
+title: 'cr0cus'
 subtitle: '<a href="https://jekyllrb.com/">#Jekyll</a> <a href="https://www.tumblr.com/search/seapunk">#Seapunk</a> <a href="https://int10h.org/oldschool-pc-fonts/fontlist/#ibmmda">#Terminal</a>'
 description: 'A Seapunk flavored Jekyll theme inspired by retro terminals.'
 
